@@ -7,5 +7,3 @@
 I'm a Web developer, love all Web technologies, especially browsers ♡
 
 I'm developing tiny browser [ToyScopy](https://github.com/negibokken/toyscopy) in C++.
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=negibokken&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=6c6c6c&icon_color=ffffff)
